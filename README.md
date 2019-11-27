@@ -1,2 +1,2 @@
-# statement
-A bank statement service implementation
+# bank-statement-service
+
